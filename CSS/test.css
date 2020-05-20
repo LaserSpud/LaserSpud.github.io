@@ -1,0 +1,41 @@
+body {
+  background: url(images/AMD.jpg);
+  background-size: 100%;
+  color: white !important;
+}
+.center {
+  text-align: center;
+}
+/* NAVBAR */
+nav{
+  padding-bottom: 20px;
+  background-color: #343434  !important;
+}
+li a {
+  margin-right: 50px;
+}
+
+
+/* NAVBAR */
+/* DROPDOWN */
+
+/* DROPDOWN */
+.header {
+  font-family: "courier", arial;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+  margin-top: 0 !important;
+  margin-bottom: 0;
+  background-color: #D5140B ;
+}
+.motto {
+  font-family: "comic sans ms";
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.7;
+}
+p {
+
+}

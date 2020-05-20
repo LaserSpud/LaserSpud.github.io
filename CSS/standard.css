@@ -1,0 +1,58 @@
+body {
+  background: url(../images/AMD.jpg);
+  background-size: 100%;
+  color: white !important;
+}
+.center {
+  text-align: center;
+}
+/* NAVBAR */
+nav{
+  background-color: #343434 !important;
+}
+nav ul li a {
+  margin-right: 50px;
+  font-size: 130%;
+  font-family: verdana;
+}
+/* NAVBAR */
+/* DROPDOWN */
+
+/* DROPDOWN */
+.header {
+  font-family: "courier", arial;
+  font-weight: 800 !important;
+  text-align: center;
+  color: white;
+  background-color: #D5140B ;
+}
+.motto {
+  font-family: "comic sans ms";
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.7;
+}
+p {
+  font-family: arial;
+  font-size: 20px;
+}
+.footer {
+   position: none;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #343434 !important;
+   color: white;
+
+}
+.copyright {
+  padding-top: 20px;
+  font-family: cursive;
+  text-align: center;
+
+}
+.footer .container-fluid .row .col-sm-6 p a {
+  color: #00FFF0;
+
+}

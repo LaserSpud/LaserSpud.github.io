@@ -1,0 +1,26 @@
+.MJRups, .MJRdowns, .awesomefactor {
+  font-size: 1.5em;
+  font-weight: bolder;
+  font-family: helvetica;
+}
+.MJRups {
+  color: #6CFF00 ;
+}
+.MJRdowns {
+  color: orange ;
+}
+.awesomefactor {
+  color: yellow;
+}
+.genreview {
+  text-decoration: underline;
+  color: #00FFF0;
+}
+.ups_downs {
+  font-size: 1.5em;
+}
+.image_credit {
+  text-align: center;
+  margin-left: 13.5em;
+  font-style: italic;
+}
